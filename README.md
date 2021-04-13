@@ -36,6 +36,8 @@ Once running, you can visit storybook at http://localhost:6006.
 
 ## The Components
 
+### day started: 04-12-21
+
 ### ProgressBar
 
 The figma document mentions that this component should be "accessible". You can learn how to build a semantically-valid, accessible progress-bar component by reading this doc: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_progressbar_role
